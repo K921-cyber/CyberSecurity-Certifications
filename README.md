@@ -9,7 +9,7 @@ Welcome to my cybersecurity portfolio! This repo highlights the certifications, 
 | Certificate                                              | Provider                | Credential / Info                           |
 |----------------------------------------------------------|-------------------------|---------------------------------------------|
 | Google Cybersecurity Professional Certificate            | Coursera                | [View on Coursera](https://coursera.org)    |
-| Microsoft Student SOC Program: Foundation Training       | Microsoft               | [SOC Program Overview](https://learn.microsoft.com) |
+| Microsoft Student SOC Program: Foundation Training       | Microsoft               | [SOC Program Overview][(https://learn.microsoft.com](https://microsoft.github.io/SOC/source/content/#)) |
 | Deloitte Cybersecurity Virtual Experience                | Forage                  | [Credential](https://forage.link)           |
 | Mastercard Cybersecurity Analyst Experience              | Forage                  | [Credential](https://forage.link)           |
 | Tata Cybersecurity Virtual Internship                    | Forage                  | [Credential](https://forage.link)           |
