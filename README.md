@@ -32,7 +32,7 @@ Welcome to my cybersecurity portfolio! This repo highlights the certifications, 
 
 ## 📁 Repo Usage
 
-You can find credential files and proof in the [`certifications/`](./certifications/) folder *(optional)*. Each certification may have a `.pdf`, `.md`, or screenshot for reference.
+You can find credential files and proof in the [`certifications/`](./certifications/) folder *(optional)*. Each certification may have a `.pdf` for reference.
 
 ---
 
