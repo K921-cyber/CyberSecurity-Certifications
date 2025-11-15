@@ -49,12 +49,12 @@ These credentials demonstrate **hands-on experience** in simulated enterprise en
 | Certification / Experience | Provider | Focus Area | Verification |
 | :--- | :--- | :--- | :--- |
 | **Google Cybersecurity Professional Certificate** | Coursera | Risk, Networks, SIEM, Python for Security | |
-| **Microsoft Student SOC Program: Foundation** | Microsoft | Microsoft Security Tools, Threat Analysis | [Link/Badge](link-to-credential-here) |
-| **Deloitte Cybersecurity Virtual Experience** | Forage | Risk & Compliance, Strategy | [Link/Badge](link-to-credential-here) |
-| **Mastercard Cybersecurity Analyst Experience** | Forage | Incident Response, Threat Analysis | [Link/Badge](link-to-credential-here) |
-| **Tata Cybersecurity Virtual Internship** | Forage | Security Fundamentals & Practice | [Link/Badge](link-to-credential-here) |
-| **Cisco Introduction to Cybersecurity** | Cisco (Skills for All) | Networking, Defense Principles | [Link/Badge](link-to-credential-here) |
-| **Red Hat Linux Fundamentals** | Red Hat | CLI Mastery, OS Security Basics | [Link/Badge](link-to-credential-here) |
+| **Microsoft Student SOC Program: Foundation** | Microsoft | Microsoft Security Tools, Threat Analysis |  |
+| **Deloitte Cybersecurity Virtual Experience** | Forage | Risk & Compliance, Strategy | |
+| **Mastercard Cybersecurity Analyst Experience** | Forage | Incident Response, Threat Analysis | |
+| **Tata Cybersecurity Virtual Internship** | Forage | Security Fundamentals & Practice | |
+| **Cisco Introduction to Cybersecurity** | Cisco (Skills for All) | Networking, Defense Principles | |
+| **Red Hat Linux Fundamentals** | Red Hat | CLI Mastery, OS Security Basics | |
 
 *(**Note:** Please replace `link-to-credential-here` with the actual verification links!)*
 
