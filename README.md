@@ -1,73 +1,104 @@
-# 🛡️ Kabir Chand's Cybersecurity Portfolio 🚀
+# 🛡️ Kabir Chand — Cybersecurity Certifications & Professional Growth 🚀
 
-> **"The only way to win is to learn, adapt, and defend."**
+> **“Security is not a product, but a process.” — Bruce Schneier**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Blue%20Team%20%26%20SOC-0077B6?style=for-the-badge&logo=detective&logoColor=white" alt="Blue Team Badge"/>
-  <img src="https://img.shields.io/badge/Primary%20SIEM-Splunk%20%2F%20Sentinel-FF6C37?style=for-the-badge&logo=splunk&logoColor=white" alt="SIEM Badge"/>
-  <img src="https://img.shields.io/badge/OS%20Experience-Linux-black?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge"/>
-  <img src="https://img.shields.io/badge/Goal-Security%2B%20(WIP)-CC0000?style=for-the-badge&logo=compTIA&logoColor=white" alt="Security+ Goal Badge"/>
+  <img src="https://img.shields.io/badge/Career%20Path-Blue%20Team%20%2F%20SOC-0A9396?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SIEM-Splunk%20%7C%20Sentinel-EE9B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux%20Experience-Command%20Line-black?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Next%20Goal-Security%2B-red?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📖 About This Portfolio
+## 📘 About This Repository
 
-This repository showcases my commitment to building **defensive security skills** through formal certifications, hands-on virtual internships, and practical training.
+This repository presents a **verified collection of certifications, virtual internships, and hands-on training programs** I have completed as part of my ongoing journey into **Cybersecurity, Blue Team Operations, and SOC Analysis**.
 
-My core focus is on **Security Operations Center (SOC) workflows**, specializing in **threat detection, incident response, and proactive defense** against modern cyber threats.
-
----
-
-## 💡 Key Project Focus: SIEM & Analysis
-
-While I've covered many areas, my most applied experience involves **Security Information and Event Management (SIEM)**.
-
-- **Splunk:** Developed custom search queries, created dynamic dashboards, and analyzed system logs to identify suspicious activity, reflecting SOC Tier 1/2 tasks.
-- **Microsoft Sentinel:** Practiced ingesting data, configuring analytics rules, and managing incidents within a cloud-native security environment.
-- **Threat Hunting:** Used both SIEM tools and Linux command-line utilities to proactively search for indicators of compromise (IOCs) and evasive threats.
+It serves as a transparent and structured portfolio of my **skills, learning progress, and practical exposure** across different security domains.
 
 ---
 
-## 🛠️ Core Competencies & Technologies
+## 🎓 Certifications & Professional Training
 
-A snapshot of the technical and procedural skills developed through my coursework:
+Below is a clean overview of all my certifications, each aligned with the role of a **SOC Analyst / Blue Team Security Professional**.
 
-| Security Domain | Key Concepts & Tools |
-| :--- | :--- |
-| **Detection & Response** | **Splunk, Microsoft Sentinel**, Threat Intelligence, Incident Lifecycle Management |
-| **System Security** | **Linux (CLI)**, Network Segmentation, Endpoint Defense (EDR/AV Principles), Patch Management |
-| **Governance & Risk** | Risk Identification, Compliance Frameworks (NIST, ISO Principles), Security Strategy |
-| **Programming** | **Python** for Scripting and Automation (Basic Security Tasks) |
+### 🧩 Core Cybersecurity Certifications
 
----
-
-## ✅ Verified Credentials & Experience
-
-These credentials demonstrate **hands-on experience** in simulated enterprise environments, focusing on analytical and procedural security tasks.
-
-| Certification / Experience | Provider | Focus Area | Verification |
-| :--- | :--- | :--- | :--- |
-| **Google Cybersecurity Professional Certificate** | Coursera | Risk, Networks, SIEM, Python for Security | |
-| **Microsoft Student SOC Program: Foundation** | Microsoft | Microsoft Security Tools, Threat Analysis |  |
-| **Deloitte Cybersecurity Virtual Experience** | Forage | Risk & Compliance, Strategy | |
-| **Mastercard Cybersecurity Analyst Experience** | Forage | Incident Response, Threat Analysis | |
-| **Tata Cybersecurity Virtual Internship** | Forage | Security Fundamentals & Practice | |
-| **Cisco Introduction to Cybersecurity** | Cisco (Skills for All) | Networking, Defense Principles | |
-| **Red Hat Linux Fundamentals** | Red Hat | CLI Mastery, OS Security Basics | |
-
-*(**Note:** Please replace `link-to-credential-here` with the actual verification links!)*
+| Certification                                     | Provider             | Key Skills                                      | Verification |
+| ------------------------------------------------- | -------------------- | ----------------------------------------------- | ------------ |
+| **Google Cybersecurity Professional Certificate** | Google / Coursera    | SOC fundamentals, logs, SIEM, Linux, Python     | *Add Link*   |
+| **Cisco — Introduction to Cybersecurity**         | Cisco Skills for All | Networking basics, security concepts, CIA triad | *Add Link*   |
+| **Red Hat Linux Fundamentals**                    | Red Hat              | Linux CLI, system fundamentals & security       | *Add Link*   |
 
 ---
 
-## ⏭️ Future Trajectory
+### 💼 Virtual Cybersecurity Internships (Hands-On Simulated Experience)
 
-My immediate goal is to formalize my conceptual knowledge by achieving the **CompTIA Security+** certification. Following that, I plan to focus on a practical, hands-on project like building a **mini-Honeypot** or a **small-scale home lab SIEM** for continuous skill development.
+| Virtual Internship                            | Provider | Experience Gained                           | Verification |
+| --------------------------------------------- | -------- | ------------------------------------------- | ------------ |
+| **Deloitte Cybersecurity Virtual Experience** | Forage   | Governance, Risk, Compliance, strategy      | *Add Link*   |
+| **Mastercard Cybersecurity Analyst Program**  | Forage   | Threat triage, incident analysis, reporting | *Add Link*   |
+| **Tata Cybersecurity Simulation**             | Forage   | Security fundamentals, analysis practice    | *Add Link*   |
 
 ---
+
+### 🛡️ SOC & SIEM-Focused Credentials
+
+| Program                                        | Provider  | Key Skills                                           | Verification |
+| ---------------------------------------------- | --------- | ---------------------------------------------------- | ------------ |
+| **Microsoft Student SOC Program — Foundation** | Microsoft | Sentinel, Defender, threat detection, cloud security | *Add Link*   |
+
+---
+
+## 🧠 Technical Competencies
+
+| Area                  | Skills                                             |
+| --------------------- | -------------------------------------------------- |
+| **SOC Operations**    | Log analysis, alert triage, incident lifecycle     |
+| **SIEM Tools**        | Splunk, Microsoft Sentinel                         |
+| **Operating Systems** | Linux (strong CLI focus), Windows basics           |
+| **Threat Detection**  | IOC analysis, basic malware behavior understanding |
+| **Scripting**         | Python for automation & log parsing                |
+| **Risk & Governance** | NIST basics, controls, compliance awareness        |
+
+---
+
+## 📅 Current Focus & Future Goals
+
+I’m actively strengthening my foundation to grow into a **SOC Analyst Level 1** role.
+
+### 🔥 In Progress
+
+* **CompTIA Security+ (SY0-701)** — mastering fundamentals + exam prep
+* Building a **home lab** for log ingestion, SIEM dashboards, and threat simulation
+* Working on **defensive scripts & cybersecurity projects**
+
+### 🔮 Upcoming Goals
+
+* Deploy a **mini Honeypot** for controlled threat intelligence practice
+* Build a complete **SIEM-based Blue Team Lab**
+* Contribute cybersecurity write-ups & detection logic on GitHub
+
+---
+
+## 📬 Connect with Me
 
 <div align="center">
-    <h3>👨‍💻 Maintained by Kabir Chand</h3>
-    <a href="https://www.linkedin.com/in/kabir-chand-2ab869250/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <h3>👨‍💻 Maintained by <strong>Kabir Chand</strong></h3>
+  <a href="https://www.linkedin.com/in/kabir-chand-2ab869250/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
+---
+
+### 👇 How to use
+
+* Replace `*Add Link*` placeholders with the actual verification URLs for each certificate or program.
+* Save this file as `README.md` in your GitHub repository root.
+* If you want a compact resume-style README or a badge wall, tell me which style and I’ll create it.
+
+---
+
+*Generated for you — if you want this as a single-file download or converted to a profile README, tell me which format.*
