@@ -48,7 +48,7 @@ These credentials demonstrate **hands-on experience** in simulated enterprise en
 
 | Certification / Experience | Provider | Focus Area | Verification |
 | :--- | :--- | :--- | :--- |
-| **Google Cybersecurity Professional Certificate** | Coursera | Risk, Networks, SIEM, Python for Security | [Link/Badge](link-to-credential-here) |
+| **Google Cybersecurity Professional Certificate** | Coursera | Risk, Networks, SIEM, Python for Security | |
 | **Microsoft Student SOC Program: Foundation** | Microsoft | Microsoft Security Tools, Threat Analysis | [Link/Badge](link-to-credential-here) |
 | **Deloitte Cybersecurity Virtual Experience** | Forage | Risk & Compliance, Strategy | [Link/Badge](link-to-credential-here) |
 | **Mastercard Cybersecurity Analyst Experience** | Forage | Incident Response, Threat Analysis | [Link/Badge](link-to-credential-here) |
