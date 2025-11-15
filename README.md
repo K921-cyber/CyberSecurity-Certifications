@@ -68,6 +68,6 @@ My immediate goal is to formalize my conceptual knowledge by achieving the **Com
 
 <div align="center">
     <h3>👨‍💻 Maintained by Kabir Chand</h3>
-    <a href="#"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <a href="https://www.linkedin.com/in/kabir-chand-2ab869250/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
