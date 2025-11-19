@@ -95,12 +95,3 @@ I’m actively strengthening my foundation to grow into a **SOC Analyst Level 1*
 
 ---
 
-### 👇 How to use
-
-* Replace `*Add Link*` placeholders with the actual verification URLs for each certificate or program.
-* Save this file as `README.md` in your GitHub repository root.
-* If you want a compact resume-style README or a badge wall, tell me which style and I’ll create it.
-
----
-
-*Generated for you — if you want this as a single-file download or converted to a profile README, tell me which format.*
