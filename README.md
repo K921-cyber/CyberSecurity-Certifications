@@ -27,9 +27,9 @@ Below is a clean overview of all my certifications, each aligned with the role o
 
 | Certification                                     | Provider             | Key Skills                                      | Verification |
 | ------------------------------------------------- | -------------------- | ----------------------------------------------- | ------------ |
-| **Google Cybersecurity Professional Certificate** | Google / Coursera    | SOC fundamentals, logs, SIEM, Linux, Python     | *Add Link*   |
-| **Cisco — Introduction to Cybersecurity**         | Cisco Skills for All | Networking basics, security concepts, CIA triad | *Add Link*   |
-| **Red Hat Linux Fundamentals**                    | Red Hat              | Linux CLI, system fundamentals & security       | *Add Link*   |
+| **Google Cybersecurity Professional Certificate** | Google / Coursera    | SOC fundamentals, logs, SIEM, Linux, Python     |    |
+| **Cisco — Introduction to Cybersecurity**         | Cisco Skills for All | Networking basics, security concepts, CIA triad |    |
+| **Red Hat Linux Fundamentals**                    | Red Hat              | Linux CLI, system fundamentals & security       |  **https://www.credly.com/badges/4eae526e-2aad-42ba-bc47-aef114dc4a50/public_url**  |
 
 ---
 
