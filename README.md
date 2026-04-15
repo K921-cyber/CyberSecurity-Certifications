@@ -47,9 +47,9 @@ Below is a clean overview of all my certifications, each aligned with the role o
 
 ### 🛡️ SOC & SIEM-Focused Credentials
 
-| Program                                        | Provider  | Key Skills                                           | Verification |
-| ---------------------------------------------- | --------- | ---------------------------------------------------- | ------------ |
-| **Microsoft Student SOC Program — Foundation** | Microsoft | Sentinel, Defender, threat detection, cloud security | *Add Link*   |
+| Program                                        | Provider  | Key Skills                                           | 
+| ---------------------------------------------- | --------- | ---------------------------------------------------- | 
+| **Microsoft Student SOC Program — Foundation** | Microsoft | Sentinel, Defender, threat detection, cloud security |
 
 ---
 
