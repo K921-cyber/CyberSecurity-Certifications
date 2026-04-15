@@ -37,11 +37,11 @@ Below is a clean overview of all my certifications, each aligned with the role o
 
 | Virtual Internship                            | Provider | Experience Gained                           | Verification |
 | --------------------------------------------- | -------- | ------------------------------------------- | ------------ |
-| **CyberZero InternShip** | CyberZero   | Webinar's, Bugbounty, Threat Monitoring, strategy      | *Add Link*   |
-| **Laksh CyberShlied** | Voulnterr   | Governance, Awareness, Webinars, strategy      | *Add Link*   |
-| **Deloitte Cybersecurity Virtual Experience** | Forage   | Governance, Risk, Compliance, strategy      | *Add Link*   |
-| **Mastercard Cybersecurity Analyst Program**  | Forage   | Threat triage, incident analysis, reporting | *Add Link*   |
-| **Tata Cybersecurity Simulation**             | Forage   | Security fundamentals, analysis practice    | *Add Link*   |
+| **CyberZero InternShip** | CyberZero   | Webinar's, Bugbounty, Threat Monitoring, strategy      |    [Linkedn](https://www.linkedin.com/in/kabir-chand-2ab869250/)|
+| **Laksh CyberShlied** | Voulnterr   | Governance, Awareness, Webinars, strategy      | [Linkedn](https://www.linkedin.com/in/kabir-chand-2ab869250/)   |
+| **Deloitte Cybersecurity Virtual Experience** | Forage   | Governance, Risk, Compliance, strategy      | [Linkedn](https://www.linkedin.com/in/kabir-chand-2ab869250/)   |
+| **Mastercard Cybersecurity Analyst Program**  | Forage   | Threat triage, incident analysis, reporting | [Linkedn](https://www.linkedin.com/in/kabir-chand-2ab869250/)   |
+| **Tata Cybersecurity Simulation**             | Forage   | Security fundamentals, analysis practice    | [Linkedn](https://www.linkedin.com/in/kabir-chand-2ab869250/)   |
 
 ---
 
